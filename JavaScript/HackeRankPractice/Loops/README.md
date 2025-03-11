@@ -8,4 +8,10 @@ First, print each vowel in  on a new line. The English vowels are a, e, i, o, an
 Second, print each consonant (i.e., non-vowel) in  on a new line in the same order as it appeared in .
 Function Description
 
+Complete the vowelsAndConsonants function.
+
+vowelsAndConsonants has the following parameters:
+
+string s: the string to process
+
 Complete the vowelsAndConsonants function
