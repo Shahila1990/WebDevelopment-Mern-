@@ -1,5 +1,7 @@
 # Description:
 
+```
+
 Given the triangle of consecutive odd numbers:
 
              1
